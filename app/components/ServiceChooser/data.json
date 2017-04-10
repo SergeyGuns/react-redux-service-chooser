@@ -1,0 +1,25 @@
+{
+  "list": [{
+      "id": 1,
+      "name": "Service Name",
+      "discription": "Servise discription",
+      "price": 150,
+      "added": false
+    },
+    {
+      "id": 2,
+      "name": "Service2 Name",
+      "discription": "Servise2 discription",
+      "price": 100,
+      "added": false
+    },
+    {
+      "id": 3,
+      "name": "Service3 Name",
+      "discription": "Servise3 discription",
+      "price": 125,
+      "added": false
+    }
+  ],
+  "count": 0
+}
